@@ -6,7 +6,8 @@
 int main()
 {
 
-    StackImplementation();
+    //stackImplementation();
+    userFriendlyStackOperations();
     //std::cout << "Hello World!\n";
 }
 

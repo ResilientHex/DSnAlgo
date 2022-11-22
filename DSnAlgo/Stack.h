@@ -1,3 +1,5 @@
 #pragma once
 
-void StackImplementation();
+void stackImplementation();
+
+void userFriendlyStackOperations();
